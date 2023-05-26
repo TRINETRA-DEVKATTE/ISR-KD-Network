@@ -1,0 +1,131 @@
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/vanilla_Cartoon/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/vanilla_Cartoon/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(20.5817, device='cuda:0')
+INFO:root:SSIM:tensor(0.5781, device='cuda:0')
+INFO:root:FID Score:tensor(113.3130, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
+
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/vanilla_CelebA/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/vanilla_CelebA/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(24.2420, device='cuda:0')
+INFO:root:SSIM:tensor(0.7097, device='cuda:0')
+INFO:root:FID Score:tensor(44.3340, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
+
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_0_face_CelebA/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_0_face_CelebA/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(23.5397, device='cuda:0')
+INFO:root:SSIM:tensor(0.6817, device='cuda:0')
+INFO:root:FID Score:tensor(74.3212, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
+
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_0_face_cartoon/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_0_face_cartoon/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(20.6933, device='cuda:0')
+INFO:root:SSIM:tensor(0.5991, device='cuda:0')
+INFO:root:FID Score:tensor(98.8749, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
+
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_10k_face_cartoon/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_10k_face_cartoon/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(20.7170, device='cuda:0')
+INFO:root:SSIM:tensor(0.6007, device='cuda:0')
+INFO:root:FID Score:tensor(98.0944, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
+
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_10k_face_face/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch6/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_10k_face_face/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(23.9387, device='cuda:0')
+INFO:root:SSIM:tensor(0.7007, device='cuda:0')
+INFO:root:FID Score:tensor(59.3153, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
+
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch7/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_20k_face_cartoon/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch7/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_20k_face_cartoon/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(20.7170, device='cuda:0')
+INFO:root:SSIM:tensor(0.5998, device='cuda:0')
+INFO:root:FID Score:tensor(99.3709, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
+
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch7/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_20k_face_CelebA/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch7/EIPNet/checkpoint/CelebA/result/test_20K_cartoon_20k_face_CelebA/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(23.9526, device='cuda:0')
+INFO:root:SSIM:tensor(0.7005, device='cuda:0')
+INFO:root:FID Score:tensor(61.3342, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
+
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch7/EIPNet/checkpoint/CelebA/result/test_50k_cartoon_10k_face_cartoon/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch7/EIPNet/checkpoint/CelebA/result/test_50k_cartoon_10k_face_cartoon/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(20.8310, device='cuda:0')
+INFO:root:SSIM:tensor(0.6092, device='cuda:0')
+INFO:root:FID Score:tensor(87.6397, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
+
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch7/EIPNet/checkpoint/CelebA/result/test_50k_cartoon_10k_face_CelebA/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch7/EIPNet/checkpoint/CelebA/result/test_50k_cartoon_10k_face_CelebA/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(24.0124, device='cuda:0')
+INFO:root:SSIM:tensor(0.7047, device='cuda:0')
+INFO:root:FID Score:tensor(57.2367, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
+
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch8/EIPNet/checkpoint/CelebA/result/test_20k_cartoon_20k_face_cartoon_extended/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch8/EIPNet/checkpoint/CelebA/result/test_20k_cartoon_20k_face_cartoon_extended/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(20.7401, device='cuda:0')
+INFO:root:SSIM:tensor(0.6009, device='cuda:0')
+INFO:root:FID Score:tensor(98.0220, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
+
+INFO:root:-----------------------------------
+
+INFO:root:Predicted Image path: /home/cvblgita/tri/branch8/EIPNet/checkpoint/CelebA/result/test_20k_cartoon_20k_face_celebA_extended/SR
+INFO:root:HR Image path: /home/cvblgita/tri/branch8/EIPNet/checkpoint/CelebA/result/test_20k_cartoon_20k_face_celebA_extended/HR
+INFO:root:
+
+INFO:root:PSNR:tensor(24.1860, device='cuda:0')
+INFO:root:SSIM:tensor(0.7119, device='cuda:0')
+INFO:root:FID Score:tensor(58.4155, device='cuda:0', dtype=torch.float64)
+INFO:root:************************************
