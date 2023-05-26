@@ -1,5 +1,5 @@
 # ISR-KD-Network
-Contains code for Face to Cartoon Incremental Super-Resolution for Knowledge Distillation
+Face to Cartoon Incremental Super-Resolution for Knowledge Distillation
 
 <!-- ## Abstract
 
@@ -28,7 +28,7 @@ Install requirements:
 
 ## Dataset
 
-This network is trained using [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset and [iCartoonFace](https://github.com/luxiangju-PersonAI/iCartoonFace) dataset. After downloading this datasets, run ./scripts/create_dataset.py to generate desired datasets. save test and train images in a `./datasets` folder. 
+This network is trained using [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset and [iCartoonFace](https://github.com/luxiangju-PersonAI/iCartoonFace) dataset. After downloading this datasets, run './scripts/create_dataset.py' to generate desired datasets. save test and train images in a `./datasets` folder. 
 
 ## Generating HR images using a pretrained model
 
