@@ -2,7 +2,7 @@
 
 Welcome to the ISR-KD-Network repository! This repository contains the code implementation for Face to Cartoon Incremental Super-Resolution for Knowledge Distillation.
 
-![Proposed Architecture](./EIP_KD.jpg)
+![Proposed Architecture](./EIP_KD.png)
 
 ## Abstract
 
